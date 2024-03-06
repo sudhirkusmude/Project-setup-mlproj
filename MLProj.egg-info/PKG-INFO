@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: MLProj
+Version: 0.0.1
+Author: sudhir
+Author-email: kusmudesudhir01@gmail.com
+Requires-Dist: Flask
