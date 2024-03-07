@@ -1,1 +1,0 @@
-# Genreic project setup
