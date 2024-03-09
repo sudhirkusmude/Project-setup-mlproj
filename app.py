@@ -13,5 +13,9 @@ def greet():
     greeting = f'Hello, {name}!'
     return jsonify({'greeting': greeting})
 
+@app.route("/welcome")
+def welcome():
+    return "welcome"
+
 if __name__ == '__main__':
     app.run(debug=True)
